@@ -1,4 +1,3 @@
-## Live Demo : https://davidor23.github.io/Task-Manager/
 
 # Getting Started with Create React App
 
